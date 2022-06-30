@@ -3,7 +3,7 @@
 
 |||
 |---|---|
-|🇲🇽 [Spanish Version](/profile/README.md)|🇺🇸 [English Version](/profile/README.md)|
+|🇲🇽 [Spanish Version](/profile/README.md)|🇺🇸 [English Version](/profile/README.en.md)|
 
 #  Ayúdame a Sonreír Ante el Cáncer, A.C
 
